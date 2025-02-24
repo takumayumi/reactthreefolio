@@ -1,0 +1,157 @@
+{
+  "certifications": [
+    {
+      "year": 2019,
+      "certs": [
+        {
+          "id": 1,
+          "date": "Mar 15, 2019",
+          "link": "https://example.com/certificate/abc123",
+          "org": "CodeAcademy",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "HTML & CSS"
+          ],
+          "title": "HTML & CSS Basics"
+        },
+        {
+          "id": 2,
+          "date": "Apr 10, 2019",
+          "link": "https://example.com/certificate/def456",
+          "org": "Udemy",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "JavaScript"
+          ],
+          "title": "JavaScript for Beginners"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "certs": [
+        {
+          "id": 1,
+          "link": "https://example.com/certificate/ghi789",
+          "org": "Pluralsight",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "Web Security"
+          ],
+          "title": "Introduction to Web Security"
+        },
+        {
+          "id": 2,
+          "link": "https://example.com/certificate/jkl012",
+          "org": "Coursera",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "Cybersecurity"
+          ],
+          "title": "Cybersecurity Fundamentals"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "certs": [
+        {
+          "id": 1,
+          "date": "Aug 05, 2022",
+          "link": "https://example.com/certificate/mno345",
+          "org": "Google",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "UI/UX Design"
+          ],
+          "title": "User Experience Foundations"
+        },
+        {
+          "id": 2,
+          "date": "Sep 12, 2022",
+          "link": "https://example.com/certificate/pqr678",
+          "org": "Udacity",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "Web Development"
+          ],
+          "title": "Full-Stack Web Development"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "certs": [
+        {
+          "id": 1,
+          "date": "Mar 21, 2023",
+          "link": "https://example.com/certificate/stu901",
+          "org": "Microsoft",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "Azure Cloud"
+          ],
+          "title": "Microsoft Azure Fundamentals"
+        },
+        {
+          "id": 2,
+          "date": "Nov 11, 2023",
+          "link": "https://example.com/certificate/vwx234",
+          "org": "LinkedIn Learning",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "TypeScript"
+          ],
+          "title": "Mastering TypeScript"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "certs": [
+        {
+          "id": 1,
+          "date": "Jan 14, 2024",
+          "link": "https://example.com/certificate/yz567",
+          "org": "IBM",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "Artificial Intelligence"
+          ],
+          "title": "AI for Business"
+        },
+        {
+          "id": 2,
+          "date": "Feb 20, 2024",
+          "link": "https://example.com/certificate/abc890",
+          "org": "Google",
+          "tags": [
+            "Certificate"
+          ],
+          "techs": [
+            "Google Analytics"
+          ],
+          "title": "Google Analytics Advanced"
+        }
+      ]
+    }
+  ]
+}

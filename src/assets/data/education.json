@@ -1,0 +1,28 @@
+{
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "end_date": "2020-06-01",
+      "gmaps": "https://maps.app.goo.gl/example",
+      "projects": [],
+      "school_address": "123 Sample Street, Sample City, Sample Country, 12345",
+      "school_name": "Sample University",
+      "start_date": "2016-08-01",
+      "techs": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "GraphQL",
+        "Docker",
+        "GitHub",
+        "VS Code",
+        "JIRA",
+        "Figma",
+        "AWS"
+      ],
+      "website": "https://www.sampleuniversity.edu/"
+    }
+  ]
+}

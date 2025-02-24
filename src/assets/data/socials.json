@@ -1,0 +1,34 @@
+{
+  "socials": [
+    {
+      "faClass": "fa-solid fa-envelope",
+      "link": "mailto:sample@example.com",
+      "name": "Email"
+    },
+    {
+      "faClass": "fa-brands fa-github",
+      "link": "https://www.github.com/sampleuser/",
+      "name": "GitHub"
+    },
+    {
+      "faClass": "fa-brands fa-jsfiddle",
+      "link": "https://jsfiddle.net/user/sampleuser/fiddles/",
+      "name": "JSFiddle"
+    },
+    {
+      "faClass": "fa-brands fa-linkedin",
+      "link": "https://www.linkedin.com/in/sampleuser/",
+      "name": "LinkedIn"
+    },
+    {
+      "faClass": "fa-solid fa-phone",
+      "link": "tel:+1234567890",
+      "name": "Phone"
+    },
+    {
+      "faClass": "fa-brands fa-stack-overflow",
+      "link": "https://www.stackoverflow.com/users/1234567/sampleuser/",
+      "name": "Stack Overflow"
+    }
+  ]
+}

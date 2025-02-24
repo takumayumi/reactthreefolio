@@ -1,0 +1,231 @@
+{
+  "projects": [
+    {
+      "year": 2020,
+      "projs": [
+        {
+          "id": 1,
+          "date": "Nov 24, 2020",
+          "desc": [
+            "A weather dashboard that provides real-time forecasts for various cities worldwide.",
+            "Features",
+            [
+              "Search functionality with autocomplete suggestions.",
+              "Current temperature, humidity, and wind speed.",
+              "5-day forecast with graphical representation."
+            ]
+          ],
+          "has_vid": false,
+          "live_demo": "https://example.com/weather-dashboard",
+          "tags": [
+            "Live Demo",
+            "Personal Project"
+          ],
+          "techs": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "OpenWeather API",
+            "Bootstrap"
+          ],
+          "title": "Weather Dashboard"
+        },
+        {
+          "id": 2,
+          "date": "Dec 15, 2020",
+          "desc": [
+            "A simple to-do list application with local storage support.",
+            "Features",
+            [
+              "Add, edit, and delete tasks.",
+              "Mark tasks as completed.",
+              "Persistent storage using localStorage."
+            ]
+          ],
+          "has_vid": false,
+          "live_demo": "https://example.com/todo-app",
+          "tags": [
+            "Live Demo",
+            "Personal Project"
+          ],
+          "techs": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "title": "Simple To-Do App"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "projs": [
+        {
+          "id": 1,
+          "date": "Feb 10, 2021",
+          "desc": [
+            "An e-commerce landing page with an interactive UI.",
+            "Features",
+            [
+              "Product showcase with animations.",
+              "Responsive design for mobile and desktop.",
+              "Contact form with validation."
+            ]
+          ],
+          "has_vid": false,
+          "live_demo": "https://example.com/ecommerce-landing",
+          "tags": [
+            "Live Demo",
+            "Freelance"
+          ],
+          "techs": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "GSAP"
+          ],
+          "title": "E-Commerce Landing Page"
+        },
+        {
+          "id": 2,
+          "date": "Jun 5, 2021",
+          "desc": [
+            "A productivity timer based on the Pomodoro Technique.",
+            "Features",
+            [
+              "Customizable work and break intervals.",
+              "Dark and light theme modes.",
+              "Sound notifications for session transitions."
+            ]
+          ],
+          "has_vid": false,
+          "live_demo": "https://example.com/pomodoro-app",
+          "tags": [
+            "Live Demo",
+            "Personal Project"
+          ],
+          "techs": [
+            "React",
+            "Redux",
+            "Tailwind CSS"
+          ],
+          "title": "Pomodoro Timer"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "projs": [
+        {
+          "id": 1,
+          "date": "Mar 12, 2022",
+          "desc": [
+            "A real-time chat application with authentication.",
+            "Features",
+            [
+              "User-to-user messaging.",
+              "Google authentication.",
+              "Message history saved in the cloud."
+            ]
+          ],
+          "has_vid": true,
+          "live_demo": "https://example.com/chat-app",
+          "tags": [
+            "Live Demo",
+            "Personal Project"
+          ],
+          "techs": [
+            "React",
+            "Firebase",
+            "Tailwind CSS"
+          ],
+          "title": "Real-Time Chat App"
+        },
+        {
+          "id": 2,
+          "date": "Oct 28, 2022",
+          "desc": [
+            "A workout tracker that helps users log exercises and track progress.",
+            "Features",
+            [
+              "Pre-set workout plans and custom routines.",
+              "Progress tracking with charts.",
+              "Dark mode option."
+            ]
+          ],
+          "has_vid": false,
+          "live_demo": "https://example.com/workout-tracker",
+          "tags": [
+            "Live Demo",
+            "Personal Project"
+          ],
+          "techs": [
+            "Vue.js",
+            "Node.js",
+            "MongoDB",
+            "Tailwind CSS"
+          ],
+          "title": "Workout Tracker"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "projs": [
+        {
+          "id": 1,
+          "date": "Nov 14, 2023",
+          "desc": [
+            "A movie recommendation web app using AI to suggest films based on user preferences.",
+            "Features",
+            [
+              "Personalized movie suggestions.",
+              "Filters for genre, release year, and rating.",
+              "User reviews and ratings."
+            ]
+          ],
+          "has_vid": false,
+          "live_demo": "https://example.com/movie-recommender",
+          "tags": [
+            "Live Demo",
+            "Personal Project"
+          ],
+          "techs": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "Tailwind CSS"
+          ],
+          "title": "AI Movie Recommender"
+        },
+        {
+          "id": 2,
+          "date": "Dec 18, 2023",
+          "desc": [
+            "A budgeting app to help users track income and expenses.",
+            "Features",
+            [
+              "Real-time expense tracking with category breakdown.",
+              "Monthly and yearly budget visualization.",
+              "Secure user authentication."
+            ]
+          ],
+          "has_vid": false,
+          "live_demo": "https://example.com/budget-tracker",
+          "tags": [
+            "Live Demo",
+            "Personal Project"
+          ],
+          "techs": [
+            "Vue.js",
+            "Firebase",
+            "Chart.js",
+            "Tailwind CSS"
+          ],
+          "title": "Smart Budget Tracker"
+        }
+      ]
+    }
+  ]
+}

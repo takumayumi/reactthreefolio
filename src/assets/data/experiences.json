@@ -1,0 +1,66 @@
+{
+  "experiences": [
+    {
+      "company_address": "456 Sample Avenue, Tech City, 2000",
+      "company_name": "Example Tech Solutions",
+      "description": [
+        "Developed and maintained web applications using React and Node.js.",
+        "Collaborated with a cross-functional team to improve application performance and user experience."
+      ],
+      "employment_type": "Full-Time",
+      "end_date": "2024-02-01",
+      "gmaps": "https://maps.app.goo.gl/example1",
+      "linkedin_url": "https://www.linkedin.com/company/exampletech",
+      "position_title": "Front-End Developer",
+      "responsibilities": [
+        "Implemented new UI features and optimized existing components.",
+        "Worked closely with back-end developers to integrate APIs.",
+        "Ensured accessibility and responsiveness of applications."
+      ],
+      "start_date": "2022-06-01",
+      "summary": "Focused on front-end development for web applications, optimizing UI components and integrating APIs.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "CSS",
+        "Node.js",
+        "GraphQL",
+        "Git"
+      ],
+      "website": "https://www.exampletech.com/",
+      "work_location": "Hybrid"
+    },
+    {
+      "company_address": "789 Demo Road, Software Park, 3000",
+      "company_name": "Sample Software Inc.",
+      "description": [
+        "Designed and developed landing pages and dashboard interfaces.",
+        "Assisted in migrating legacy applications to a modern tech stack."
+      ],
+      "employment_type": "Contract",
+      "end_date": "2022-05-01",
+      "gmaps": "https://maps.app.goo.gl/example2",
+      "linkedin_url": "https://www.linkedin.com/company/samplesoftware",
+      "position_title": "Web Developer",
+      "responsibilities": [
+        "Created responsive UI components using Vue.js and Bootstrap.",
+        "Collaborated with designers to ensure consistent branding.",
+        "Optimized website performance for better loading speeds."
+      ],
+      "start_date": "2021-01-10",
+      "summary": "Worked on UI/UX improvements and legacy system modernization.",
+      "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "Bootstrap",
+        "SASS",
+        "PHP",
+        "MySQL",
+        "Git"
+      ],
+      "website": "https://www.samplesoftware.com/",
+      "work_location": "Remote"
+    }
+  ]
+}
